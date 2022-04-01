@@ -2,4 +2,4 @@
 
 <https://pages.bigtear.com>
 
-Personal blog.
+记录一些写的东西。
