@@ -1,3 +1,12 @@
++++
+title = "JupyterNotebook设置为中文"
+date = 2022-04-01T18:46:47+08:00
+author = "bigtear"
+keywords = ["JupyterNotebook"]
+cover = ""
+summary = "1.首先桌面-此电脑-右击 属性，点击左侧 高级系统设置"
++++
+
 1.首先桌面-此电脑-右击 属性，点击左侧 高级系统设置
 ![在这里插入图片描述](images/JupyterNotebook%E8%AE%BE%E7%BD%AE%E4%B8%BA%E4%B8%AD%E6%96%87.assets/2020073109463182.png)
 
